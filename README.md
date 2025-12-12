@@ -1,4 +1,18 @@
 # Lab 4 : Opérations CRUD avancées
+## Lab
+### L’état des tables après les INSERT
+#### la table AUteur 
+
+<img width="846" height="253" alt="Capture d’écran du 2025-12-12 10-26-47" src="https://github.com/user-attachments/assets/d94ce52b-a734-46a5-a846-b8dc7af00c40" />
+
+#### La table Abonne 
+
+<img width="846" height="269" alt="Capture d’écran du 2025-12-12 10-27-16" src="https://github.com/user-attachments/assets/f3da3bb7-4a8d-416a-8870-058caa8eaa09" />
+
+#### Les tables Emprunt et OUvrages
+
+<img width="846" height="549" alt="Capture d’écran du 2025-12-12 10-28-27" src="https://github.com/user-attachments/assets/eadd79b0-206a-4089-a85b-e30552dda55f" />
+
 ## Exercice
 ### A. Création du schéma
 ```
